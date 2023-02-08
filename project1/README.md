@@ -1,7 +1,8 @@
 # Command Line Application With Rust 
 ![Screen Shot 2023-02-01 at 2 18 56 PM](https://user-images.githubusercontent.com/90811429/216141512-d3053fba-9771-4843-911b-9519f4bc2c43.png)
 
-## CRUD is an acronym that stands for Create, Read, Update, and Delete. These are the four basic functions of persistent storage.
+## Note taking application
+CRUD is an acronym that stands for Create, Read, Update, and Delete. These are the four basic functions of persistent storage.
 
 In the context of a note-taking application written in Rust, the CRUD functions could be implemented as follows:
 
